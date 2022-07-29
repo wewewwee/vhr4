@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e66f24c-5e90-4a86-bfba-20ba2fd3c19d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CHrRcqOdC7ENtrLEATBtC9DP9j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/vhr-admin/src/main/java/com/qfedu/vhr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vhr-admin/src/main/resources/static" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\java2203\06.project\code\vhr\vhr-admin\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\java2203\06.project\code\vhr\vhr-framework\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VhrApp (1)">
+    <configuration name="MainTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vhr-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfedu.vhr.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qfedu.vhr.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.qfedu.vhr.admin.MainTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vhr-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfedu.vhr.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qfedu.vhr.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.qfedu.vhr.admin.MainTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VhrApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="vhr-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfedu.vhr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qfedu.vhr.VhrApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VhrApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vhr-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qfedu.vhr.admin.VhrApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.VhrApp (1)" />
+        <item itemvalue="JUnit.MainTest.test02" />
+        <item itemvalue="JUnit.MainTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e66f24c-5e90-4a86-bfba-20ba2fd3c19d" name="Default Changelist" comment="" />
+      <created>1658470344685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658470344685</updated>
+      <workItem from="1658470348941" duration="6069000" />
+      <workItem from="1658710692423" duration="3661000" />
+      <workItem from="1658733626880" duration="4499000" />
+      <workItem from="1658797309024" duration="1374000" />
+      <workItem from="1658818354116" duration="595000" />
+      <workItem from="1658820235634" duration="6045000" />
+      <workItem from="1658883830543" duration="3609000" />
+      <workItem from="1658902022763" duration="13000" />
+      <workItem from="1658902105572" duration="5030000" />
+      <workItem from="1658970200320" duration="8175000" />
+      <workItem from="1659056360022" duration="9024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vhr-framework/src/main/java/com/qfedu/vhr/framework/config/MyFilterInvocationSecurityMetadataSource.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vhr-framework/src/main/java/com/qfedu/vhr/framework/config/MyAccessDecisionManager.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vhr-framework/src/main/java/com/qfedu/vhr/framework/config/MyFilterInvocationSecurityMetadataSource.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vhr-framework/src/main/java/com/qfedu/vhr/framework/config/MyFilterInvocationSecurityMetadataSource.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vhr-framework/src/main/java/com/qfedu/vhr/framework/config/MyFilterInvocationSecurityMetadataSource.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/vhr$VhrApp__1_.ic" NAME="VhrApp (1) Coverage Results" MODIFIED="1658840687655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.qfedu.vhr.*</FILTER>
+    </SUITE>
+  </component>
+</project>

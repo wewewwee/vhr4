@@ -1,0 +1,4 @@
+# Project exclude paths
+/vhr-admin/target/
+/vhr-framework/target/
+/vhr-system/target/
